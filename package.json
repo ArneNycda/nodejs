@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArneNycda/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArneNycda/nodejs/issues"
+  },
+  "homepage": "https://github.com/ArneNycda/nodejs#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "eslint": "^4.8.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
+  "keywords": [],
+  "description": ""
+}
